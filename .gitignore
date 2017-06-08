@@ -1,0 +1,11 @@
+# Build files
+*.o
+*.ko
+*.mod
+*.mod.*
+.tmp_versions
+*.cmd
+bin/
+
+Module.symvers
+modules.order
