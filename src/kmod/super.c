@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2017 Matt Monsour
+ * Licensed under GPLv3
+ * Refer to LICENSE file for full GPL text
+ */
+
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/fs.h>

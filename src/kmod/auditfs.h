@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2017 Matt Monsour
+ * Licensed under GPLv3
+ * Refer to LICENSE file for full GPL text
+ */
+
 #ifndef AUDITFS_H
 #define AUDITFS_H
 
